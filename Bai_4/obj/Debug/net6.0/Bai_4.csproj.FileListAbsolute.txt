@@ -1,0 +1,15 @@
+E:\visual studio\bai_4\Bai_4\Bai_4\bin\Debug\net6.0\Bai_4.exe
+E:\visual studio\bai_4\Bai_4\Bai_4\bin\Debug\net6.0\Bai_4.deps.json
+E:\visual studio\bai_4\Bai_4\Bai_4\bin\Debug\net6.0\Bai_4.runtimeconfig.json
+E:\visual studio\bai_4\Bai_4\Bai_4\bin\Debug\net6.0\Bai_4.dll
+E:\visual studio\bai_4\Bai_4\Bai_4\bin\Debug\net6.0\Bai_4.pdb
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.csproj.AssemblyReference.cache
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.GeneratedMSBuildEditorConfig.editorconfig
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.AssemblyInfoInputs.cache
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.AssemblyInfo.cs
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.csproj.CoreCompileInputs.cache
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.dll
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\refint\Bai_4.dll
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.pdb
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\Bai_4.genruntimeconfig.cache
+E:\visual studio\bai_4\Bai_4\Bai_4\obj\Debug\net6.0\ref\Bai_4.dll
